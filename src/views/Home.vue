@@ -12,6 +12,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <h1>第一次修改主分支</h1>
     <h1>新建分支后，修改主分支代码001</h1>
+    <h1>新建分支后，修改主分支代码002</h1>
   </div>
 </template>
 
